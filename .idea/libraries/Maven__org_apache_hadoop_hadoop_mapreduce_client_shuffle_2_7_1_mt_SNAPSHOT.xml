@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.hadoop:hadoop-mapreduce-client-shuffle:2.7.1-mt-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-shuffle/2.7.1-mt-SNAPSHOT/hadoop-mapreduce-client-shuffle-2.7.1-mt-20161216.042503-3.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-shuffle/2.7.1-mt-SNAPSHOT/hadoop-mapreduce-client-shuffle-2.7.1-mt-20161216.042503-3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-shuffle/2.7.1-mt-SNAPSHOT/hadoop-mapreduce-client-shuffle-2.7.1-mt-20161216.042503-3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
